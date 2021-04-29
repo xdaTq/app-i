@@ -3,7 +3,7 @@
 ## All dependencies
 
 The typescript template is optional to you.
-```
+```diff
 + npx install create-react-app appName --template typescript 
 + npm install electron
 + npm install wait-on
