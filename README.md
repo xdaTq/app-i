@@ -1,10 +1,13 @@
-# Getting Started with Create React App
+# Getting started.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## All dependencies
 
-## Available Scripts
+The typescript template is optional to you.
 
-In the project directory, you can run:
++ npx install create-react-app appName --template typescript 
++ npm install electron
++ npm install wait-on
++ npm install concurrently
 
 ### `npm run electron-starter`
 
