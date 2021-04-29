@@ -3,12 +3,12 @@
 ## All dependencies
 
 The typescript template is optional to you.
-
+```
 + npx install create-react-app appName --template typescript 
 + npm install electron
 + npm install wait-on
 + npm install concurrently
-
+```
 ### `npm run electron-starter`
 
 The app is a desktop app but can also be viewed in the browser
